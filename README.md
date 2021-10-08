@@ -1,8 +1,9 @@
 <h1> Hi there 👋 </h1>
-<p align="center">Estudiante de Nucba. 
+
+<p >Estudiante de Nucba. 
 <br>
 Developer Fullstak in progress. </p>
-
+<hr>
 
 
 <p ><img src="https://github-readme-stats.vercel.app/api?username=fafomax&show_icons=true&theme=default"></p>
