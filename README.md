@@ -13,5 +13,5 @@
 [<img src='https://www.svgrepo.com/show/80427/twitter.svg' alt='twitter' height='40' margin='30px'>](https://twitter.com/fafomax)  
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@f2be62df-fe70-434b-9616-62eb5fb9630b)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fafomax)](https://github.com/anuraghazra/github-readme-stats)
 </div>
