@@ -10,7 +10,8 @@
 
 [<img src='https://www.svgrepo.com/show/138936/linkedin.svg' alt='linkedin' height='40' margin='30px'>](https://www.linkedin.com/in/leonardo-d-mora)
 [<img src='https://www.svgrepo.com/show/134478/instagram.svg' alt='instagram' height='40' margin='30px'>](https://www.instagram.com/fafomax/)
-[<img src='https://www.svgrepo.com/show/80427/twitter.svg' alt='twitter' height='40' margin='30px'>](https://twitter.com/fafomax)  
+[<img src='https://www.svgrepo.com/show/80427/twitter.svg' alt='twitter' height='40' margin='30px'>](https://twitter.com/fafomax) 
+[<img src='https://www.freecodecamp.org/espanol/favicon-32x32.png' alt='freeCodeCamp' height='40' margin='30px'>](https://www.freecodecamp.org/espanol/Fafomax) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fafomax&show_icons=true)
 
