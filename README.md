@@ -7,7 +7,7 @@ Web Developer in progress...
 Actualmente me encuentro cursando el bootcamp dictado por NUCBA.
 
 * 🌍  I'm based in Rosario, Santa Fe, Argentina
-* ✉️  You can contact me at [leonardodmora@gmail.com](mailto:leonardodmora@gmail.com)
+* ✉️  You can contact me at [leonardodavidmoravargas@gmail.com](mailto:leonardodavidmoravargas@gmail.com)
 * 🧠  I'm learning Java Script and React
 ----------------------------
 ### Skills
